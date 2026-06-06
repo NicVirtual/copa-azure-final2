@@ -77,3 +77,15 @@ node_modules
 .aiox-core/local/
 .claude/settings.local.json
 .aiox/install-log.txt
+
+# ----- Tooling de IA / assistentes (não versionar no repo do app) -----
+.aiox-core/
+.aiox/
+.antigravity/
+.claude/
+.codex/
+.cursor/
+.gemini/
+.kimi/
+.github/agents/
+infra/.claude/
